@@ -1,0 +1,18 @@
+title;description;url;image
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/iliadilolo/todoapp.git;1.png
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/iliadilolo/portfolio.git;2.png
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/iliadilolo/PDF__Generation.git;3.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/iliadilolo/Excel_to_PDF.git;4.png
+Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/iliadilolo/weather_api.git;5.png
+Happiness Analysis;The programme analyses data on happiness in different countries based on several indicators.;https://github.com/iliadilolo/happiness_analysis.git;6.png
+Weather App;The programme provides information on the weather for the coming days.;https://github.com/iliadilolo/weather_app.git;7.png
+Book Analysis;A Jupiter script analyses book chapters.;https://github.com/iliadilolo/book_analysis.git;8.png
+Diary Analysis;The programme analyses the nature of the diary entries.;https://github.com/iliadilolo/diary_analysis.git;9.png
+Start Video App;Press "Start" and play the video on your computer.;https://github.com/iliadilolo/start_video.git;10.png
+Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/iliadilolo/webcam.git;11.png
+Hotel Booking App;OOP script for booking hotel, generates a reservation ticket.;https://github.com/iliadilolo/booking_app.git;12.png
+Age Counter App;The programme will remind how old you are.;https://github.com/iliadilolo/age_app.git;13.png
+Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://github.com/iliadilolo/management_app.git;14.png
+Flask Job Web App;A Flask web app creates a job application form.;https://github.com/iliadilolo/flask_job_app.git;15.png
+Django Job Web App;A Django web app creates a job application form.;https://github.com/iliadilolo/django_job_app.git;16.png
+Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://github.com/iliadilolo/menu_app.git;17.png
